@@ -5,7 +5,11 @@ In this project i have done data analysis of campus placement records using Pyth
 The goal is to extract meaningful insights about placement trends and company behavior.
 
 ---
+## 🧹 Data Cleaning
 
+The dataset initially contained some missing (`NaN`) values in the `Package in Lakhs` column. These were handled during preprocessing using basic data cleaning techniques like removing null rows, allowing for accurate and complete analysis.
+
+---
 
 ## 🔍 Key Insights
 
