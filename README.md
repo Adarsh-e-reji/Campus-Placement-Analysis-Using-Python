@@ -48,6 +48,6 @@ You can view or copy the code directly from the notebook.
 
 ## 👤 Author
 
-Made by [ADARSH E REJI] as a data analytics project to explore real-world use of Python and Matplotlib.
+Made by ADARSH E REJI as a data analytics project to explore real-world use of Python and Matplotlib.
 
 Feel free to suggest improvements or fork the notebook!
